@@ -1,1 +1,2 @@
-# react-node
+# React frontend
+# Run with - npm start
